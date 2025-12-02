@@ -47,10 +47,10 @@ An interactive **React.js** tool that visualizes live color changes, allowing us
 
 ---
 
-## ⚠️ Private Notice
+## 📌 Note
 
-This repository is private.  
-If you need access for hiring or review purposes, please contact me directly.
+This project is part of my frontend development learning and portfolio showcase.  
+I welcome any review or feedback from recruiters, developers, or collaborators.
 
 ---
 
