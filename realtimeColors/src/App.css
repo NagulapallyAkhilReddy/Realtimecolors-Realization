@@ -1,0 +1,42 @@
+*{
+  transition: all 0.3s ease;
+}
+.parent{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  border: 2px solid blue;
+  margin: 0px;
+  position: absolute;
+  right: 50px;  
+  width: 500px;
+  height: 400px;
+}
+
+.child{
+  /* height: 100%;
+  width: 100%; */
+  border: 2px solid red;
+}
+
+.child1{
+  grid-area: 1/1/2/3;
+  background-color: orange;
+}
+
+.child2{
+  grid-area: 1/3/3/4;
+  background-color: blue;
+}
+.child3{
+  grid-area: 2/1/4/3;
+  background-color: green;
+}
+
+footer button{
+  border: 2px solid wheat;
+  background-color: floralwhite;
+  color: darkcyan;
+}
+button{
+  border: 2px solid blue;
+}
