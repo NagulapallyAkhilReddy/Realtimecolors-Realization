@@ -2,8 +2,7 @@
 
 An interactive **React.js** tool that visualizes live color changes, allowing users to experiment with text/background color combinations using real-time state updates.
 
-> 🔒 **Source code is private.**  
-> Only the deployed version is available for users.
+
 
 ---
 
